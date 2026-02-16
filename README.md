@@ -1,3 +1,22 @@
+# Hi, I'm Hannah 👋
+
+Frontend developer learning Full-Stack Development.
+
+I create aesthetically pleasing, user-focused web experiences and interactive interfaces.
+
+## Currently Learning
+- JavaScript (deep understanding)
+- React
+- Backend fundamentals
+
+## Projects
+- Aura Vision Board Website
+
+## Skills
+HTML • CSS • JavaScript • Git • Responsive Design
+
+## Goal
+Becoming a professional freelance full-stack developer.
 ## Hi there 👋
 
 <!--
