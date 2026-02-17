@@ -38,17 +38,7 @@ And yes… the code breaking at 2 am is part of the personality development.
 
 ---
 
-## ✧ projects
 
-🐱 **Hotel Management System — Java OOP**  
-booking logic, class relationships, structured design
-
-✈️ **Travel Website**  
-responsive frontend website with an organized layout
-
-(more projects coming — I'm building in public)
-
----
 
 ## ✧ github stats
 
