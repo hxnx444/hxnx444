@@ -1,55 +1,94 @@
-<div align="center">
-  <img src="https://your-link-here.png" alt="Hannah's Tech Banner" width="100%">
-</div>
+<!-- hana -->
 
-<br>
+# Hana ✦
+### `full-stack dev · UI/UX designer · soft energy, sharp logic.`
 
-<div align="center">
-  <h1>Full-Stack Developer & UI/UX Designer</h1>
-  <p><b>Bridging the gap between complex logic and elegant user experiences.</b></p>
-  <p>Alexandria University • Open for Freelance Gigs • Creative Problem Solver</p>
-</div>
+**Alexandria, Egypt** · hanawaeltag12@gmail.com · [Portfolio ↗](https://hxnx444.github.io/Portifolio-website/) · [@hxnx444](https://www.instagram.com/hxnx444/)
 
----
-
-### 🚀 Professional Profile
-I specialize in building **high-performance web and desktop applications** that don't just work—they feel premium. My background in Computer Science allows me to architect robust backends, while my passion for UI/UX ensures every interface is intuitive and visually striking.
+![open to gigs](https://img.shields.io/badge/✦_open_to_gigs-7F77DD?style=flat-square&labelColor=EEEDFE&color=7F77DD)
+![learning AI](https://img.shields.io/badge/⚡_learning_AI-1D9E75?style=flat-square&labelColor=E1F5EE&color=1D9E75)
+![UI/UX](https://img.shields.io/badge/✿_UI%2FUX-D4537E?style=flat-square&labelColor=FBEAF0&color=D4537E)
+![Java](https://img.shields.io/badge/☕_Java-BA7517?style=flat-square&labelColor=FAEEDA&color=BA7517)
+![8 projects](https://img.shields.io/badge/⬡_8_projects-185FA5?style=flat-square&labelColor=E6F1FB&color=185FA5)
 
 ---
 
-### 🛠️ Technical Arsenal
-
-| **Core Engineering** | **Interface & Experience** | **Tools & Architecture** |
-| :--- | :--- | :--- |
-| **Languages:** Java, JavaScript, HTML5, CSS3 | **Design:** Figma, Adobe XD | **Version Control:** Git & GitHub |
-| **Frameworks:** React, Node.js, JavaFX | **UI Styles:** Glassmorphism, Responsive Design | **DB:** MySQL, Database Design |
-| **Logic:** Automata Theory, Data Structures | **Aesthetics:** Navy, Plum, & Pastel Systems | **Environments:** IntelliJ, VS Code |
+I build things **end-to-end** — from database schema to polished interface. CS student at Alexandria University who cares equally about clean architecture and how something *feels* to use. Currently learning AI to build smarter, more intuitive products.
 
 ---
 
-### 📂 Featured Client-Ready Projects
-
-* 🏨 **[Grand Hotel Management System](https://github.com/hxnx444/Hotel-System-UI-)** A sophisticated JavaFX desktop suite featuring a real-time dashboard, automated payment processing, and internal staff chat. Built using clean OOP architecture and local MySQL integration.
-* 🧠 **[Automata Conversion Engine](https://github.com/hxnx444/NFA-to-DFA)** A deep-logic tool that converts Regular Expressions into Minimized DFAs. It demonstrates high-level algorithm implementation combined with automated Graphviz visualizations.
-* ✨ **Aura Vision & Learnify** Productivity and bilingual learning platforms focused on high-end UI design and seamless user flows.
-
----
-
-### 📈 Currently Mastering
-* 🤖 **Artificial Intelligence:** Integrating AI to build smarter, data-driven user experiences.
-* ⚡ **Performance Optimization:** Writing cleaner, faster, and more scalable code.
-* 🌍 **Freelance Market:** Actively delivering high-quality UI/UX and Frontend solutions on Mostaqel.
-
----
-
-### 🤝 Let's Build Something Great
-I am currently available for **UI/UX Design, Frontend Development, and Java-based system architecture.**
-
-<div align="center">
-  
-  [![Live Portfolio](https://img.shields.io/badge/View_Portfolio-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://hxnx444.github.io/Portifolio-website/)
-  [![Hire Me](https://img.shields.io/badge/Hire_on_Mostaqel-23ABE2?style=for-the-badge&logo=freelancer&logoColor=white)](https://mostaqel.com/u/hxnx444) </div>
+### `github stats.`
 
 <p align="center">
-  <i>"Soft energy, sharp logic."</i>
+  <img src="https://github-readme-stats.vercel.app/api?username=hxnx444&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hxnx444&theme=tokyonight&hide_border=true" height="150"/>
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hxnx444&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="120"/>
+</p>
+
+---
+
+### `stack`
+
+```
+languages  →  Java · JavaScript · Python · HTML · CSS
+frontend   →  React · JavaFX · WordPress
+backend    →  Node.js · MySQL · OOP · Database Design
+design     →  Figma · Adobe XD · HCI Principles
+✦ learning →  AI / ML · prompt engineering · LLMs
+```
+
+---
+
+### `projects`
+
+**— web —**
+
+🌐 **[Portfolio Website](https://hxnx444.github.io/Portifolio-website/)** `HTML` `CSS` `JS` `live`
+> Hand-coded from scratch. No frameworks, no templates. Organized by project category.
+
+✨ **Aura Vision Board** `full-stack`
+> Personal growth platform with vision board, quests, and progress tracking. High-end UI focus.
+
+✈️ **Travel Website** `HTML` `CSS` `JS`
+> Responsive multi-page travel platform with animated UI components.
+
+**— Java desktop —**
+
+🏨 **[Hotel System UI](https://github.com/hxnx444/Hotel-System-UI-)** `JavaFX` `MySQL`
+> Full desktop suite — reservations, payment processing, staff chat, real-time dashboard.
+
+🏨 **[Hotel Management System](https://github.com/hxnx444/hotel-management-system-java)** `Java` `OOP` `console`
+> Console-based hotel operations demonstrating OOP — rooms, bookings, guests, staff management.
+
+📚 **Library System** `JavaFX` `MySQL`
+> Desktop app managing books, members, and borrowing operations with database persistence.
+
+**— algorithms & CS —**
+
+🧠 **[Automata Conversion Engine](https://github.com/hxnx444/NFA-to-DFA)** `Java` `Graphviz`
+> Converts Regular Expressions → Minimized DFAs with automated state machine visualizations.
+
+🔐 **Encryption Project** `Java`
+> Implementation of encryption algorithms — applied cryptography and data security concepts.
+
+---
+
+### `currently`
+
+- ✦ integrating AI into practical user-facing products
+- ⚡ performance optimization & scalable frontend architecture
+- ✿ freelance UI/UX & full-stack web projects
+
+---
+
+### `contact`
+
+📩 hanawaeltag12@gmail.com  
+🌐 [hxnx444.github.io/Portifolio-website](https://hxnx444.github.io/Portifolio-website/)  
+📸 [@hxnx444](https://www.instagram.com/hxnx444/)
+
+```
+// available for: frontend · full-stack · UI/UX · Java apps
+```
