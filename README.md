@@ -1,6 +1,6 @@
-<!-- hana -->
+<!-- hana wael -->
 
-# Hana ✦
+# Hana Wael✦
 ### `full-stack dev · UI/UX designer · soft energy, sharp logic.`
 
 **Alexandria, Egypt** · hanawaeltag12@gmail.com · [Portfolio ↗](https://hxnx444.github.io/Portifolio-website/) · [@hxnx444](https://www.instagram.com/hxnx444/)
