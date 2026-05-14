@@ -3,7 +3,7 @@
 # Hana Wael✦
 ### `full-stack dev · UI/UX designer · soft energy, sharp logic.`
 
-**Alexandria, Egypt** · hanawaeltag12@gmail.com · [Portfolio ↗](https://hxnx444.github.io/Portifolio-website/) · [@hxnx444](https://www.instagram.com/hxnx444/)
+**Alexandria, Egypt** · hannahtag186@gmail.com · [Portfolio ↗](https://hxnx444.github.io/Portifolio-website/) · [@hxnx444](https://www.instagram.com/hxnx444/)
 
 ![open to gigs](https://img.shields.io/badge/✦_open_to_gigs-7F77DD?style=flat-square&labelColor=EEEDFE&color=7F77DD)
 ![learning AI](https://img.shields.io/badge/⚡_learning_AI-1D9E75?style=flat-square&labelColor=E1F5EE&color=1D9E75)
