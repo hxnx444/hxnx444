@@ -1,76 +1,57 @@
-<h1 align="center">hi, i'm hannah 🐾</h1>
-
-<p align="center">
-soft energy • sharp logic • chaotic git history
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;Future+Full+Stack+Developer;I+fix+bugs+(eventually);Welcome+to+my+coding+journey&center=true&width=500&height=45&color=C8B98A">
-</p>
-
----
-
-## ✧ about me
-
-I’m a computer science student learning to build real things — slowly, carefully, and sometimes dramatically.
-
-I like understanding *why* things work, not just making them work. And yes… the code breaking at 2 am is just part of my personality development.
-
----
-
-## ✧ featured projects
-
-Here is what I've been working on lately:
-
-* **[Grand Hotel Management System UI](https://github.com/hxnx444/Hotel-System-UI-)** 🏨  
-  A modern, luxury-styled JavaFX desktop application for front-desk staff. Features a real-time dashboard, MySQL database integration, dynamic room management, and a split-screen staff chat. Built with strict OOP principles.
-  
-* **[Regex to Minimized DFA Converter](https://github.com/hxnx444/NFA-to-DFA)** 🧠  
-  An automata theory tool built in Java. It takes a Regular Expression, processes it through Thompson's Construction and Subset Construction, and generates interactive console simulations alongside automated Graphviz state diagrams.
-
----
-
-## ✧ tech stack & tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,mysql,html,css,js,git,github,idea" />
-</p>
-
-**Currently learning / focusing on:**
-* 🌸 full-stack development  
-* 🧠 problem solving & clean code  
-* 💻 project architecture  
-* ✨ writing code that is both functional *and* pretty
-
----
-
-## ✧ github stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hxnx444&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hxnx444&theme=tokyonight&hide_border=true&background=0D1117"/>
-</p>
-
----
-
-## ✧ developer energy
-
-- debug → cry → fix → repeat
-- small commits, big dreams
-- curiosity > fear
-- I press run and hope
-
----
-
-## ✧ let's connect
-
-I'm currently looking to become internship-ready and grow into a confident full-stack developer. Let's talk tech!
-
-📫 **Reach me at:** [YourEmail@example.com] *(<- don't forget to change this!)* 💼 **LinkedIn:** [Link to your LinkedIn here] *(<- optional!)*
+<div align="center">
+  <img src="[Link-to-your-Figma-Banner.png]" alt="Hannah's Header Banner" width="100%">
+</div>
 
 <br>
 
+<div align="center">
+  <h3> CS Student @ Alexandria University | Frontend Engineer | UI/UX Designer </h3>
+  <p> I build responsive, glass-themed interfaces and architect clean systems. </p>
+</div>
+
+---
+
+### ✦ The Tech Arsenal
+
+I rely on structured knowledge blocks and a carefully selected tech stack to bring designs to life.
+
+| 🎨 **Design & Prototyping** | 💻 **Frontend Development** | ⚙️ **Backend & Systems** |
+| :--- | :--- | :--- |
+| Figma, Adobe XD | JavaScript, React, HTML5, CSS3 | Node.js, Java, MySQL |
+
+---
+
+### ✦ Featured Engineering & Design
+
+* 🏨 **[Hotel Management System UI](https://github.com/hxnx444/Hotel-System-UI-)** A premium JavaFX desktop application featuring a real-time dashboard, dynamic room management, and split-screen reception chat. Built with strict OOP architecture.
+  
+* 🧠 **[NFA-to-DFA Converter](https://github.com/hxnx444/NFA-to-DFA)** A computer science theory tool that translates Regular Expressions into Minimized DFAs, complete with Graphviz visual state mapping.
+
+* ✨ **Aura Vision & Learnify** Full-stack productivity and bilingual learning applications featuring custom design systems and robust backend integration.
+
+---
+
+### ✦ Currently...
+
+- 🎓 **Academic Focus**: Conquering Spring semester (System Programming, Theory of Computation, Data Structures).
+- 🤖 **AI Exploration**: Diving into the fundamentals of Artificial Intelligence to build smarter, data-driven applications.
+- 💼 **Freelancing**: Establishing my presence on Mostaqel and taking on new UI/UX and Frontend gigs.
+- 🚀 **Portfolio**: Refining my personal portfolio and building modern, responsive web apps.
+
+---
+
+### ✦ Let's Collaborate
+
+Looking for a developer who understands both the logic of code and the aesthetics of user experience? Let's talk.
+
+<div align="center">
+  
+  [![Portfolio](https://img.shields.io/badge/Live_Portfolio-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://hxnx444.github.io/Portifolio-website/)
+  [![Mostaqel](https://img.shields.io/badge/Hire_Me_on_Mostaqel-0D1117?style=for-the-badge&logo=freelancer&logoColor=23ABE2)]([Link-to-your-Mostaqel-profile])
+  
+</div>
+
 <p align="center">
-Thanks for visiting ♡  
-<i>You found me early.</i>
+  <br>
+  <i>debug → cry → fix → repeat</i>
 </p>
